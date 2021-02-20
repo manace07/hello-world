@@ -1,3 +1,5 @@
+/*Write a program that solves for the hypotenuse of a right triangle. The entry of data should accept sides with decimal portions.*/
+
 #include<iostream>
 #include<math.h>
 using namespace std;
