@@ -1,3 +1,11 @@
+/*
+Write a program that solves for side c given the two sides a, b and angle C.
+
+Law of Cosines
+a2 = b2 + c2 – 2bc cos A
+b2 = a2 + c2 – 2ac cos B
+c2 = a2 + b2 – 2ab cos C
+*/
 #include<iostream>
 #include<math.h>
 using namespace std;
