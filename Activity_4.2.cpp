@@ -1,3 +1,24 @@
+/*Create a program that generates monthly payroll of the employees. The specifications are as follows:
+
+•	Employee Information (Input)
+- Payroll period (date)
+- Employee ID
+- Employee name
+- Monthly salary
+- Lates and absences (in minutes)
+Note: For lates and absences, convert the minutes to hours by dividing it by 60 minutes.
+    Hourly rate of the employee can be computed by dividing the monthly salary by 30 then divide the result by 8 hours per day.
+•	Deduction
+- Lates and absences (amount)
+- Philhealth employee contribution (constant value of 1000)
+- Pag-ibig employee contribution - (constant value of 800)
+- SSS employee contribution (constant value of 1,200)
+- Tax (12% of the Monthly Salary)
+
+Payslip Output (Note: The format of the output should look exactly like the one below)
+Assuming that the late and absences of the sample employee is 30 mins for the whole month.
+*/
+
 #include<iostream>
 #include<iomanip>
 #include<string>
